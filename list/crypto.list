@@ -205,11 +205,13 @@ DOMAIN-SUFFIX,zb.live
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,coinglass.com
+DOMAIN-KEYWORD,coinglasscdn.com
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,metamask
 DOMAIN-KEYWORD,okx
 DOMAIN-KEYWORD,coinglass
+DOMAIN-KEYWORD,coinglasscdn
 PROCESS-NAME,Binance.exe
 PROCESS-NAME,Huobi.exe
 PROCESS-NAME,OKX.exe
